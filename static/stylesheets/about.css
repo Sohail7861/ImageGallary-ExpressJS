@@ -1,0 +1,20 @@
+body{
+    height: 100%;
+    background: #b3aca7;
+}
+
+.container-home{
+    text-align: center;
+    margin-top: 15%;
+}
+.footer{
+    text-align: center;
+    
+}
+p{
+    
+    color:rgba(0, 0, 0, 0.777);
+}
+a{
+    color:#2e2d2c;
+}
